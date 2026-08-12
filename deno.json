@@ -24,7 +24,7 @@
     "@std/path": "jsr:@std/path@^1.1.6",
     "@vscode/vsce": "npm:@vscode/vsce@^3.9.2",
     "@zip-js/zip-js": "jsr:@zip-js/zip-js@^2.8.34",
-    "esbuild": "npm:esbuild@^0.28.1",
+    "esbuild": "npm:esbuild@^0.28.2",
     "ovsx": "npm:ovsx@^1.0.2"
   },
   "fmt": {
